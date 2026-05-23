@@ -1,5 +1,7 @@
 # Proteomics-Based_Cancer_Signaling_Network_Analysis
 
+Analyzed publicly available CPTAC breast cancer proteomics datasets to investigate tumor heterogeneity and approximate signaling dynamics using correlation-based protein interaction networks. Applied PCA, clustering, graph-based analysis, and pathway enrichment to identify biologically interpretable signaling modules associated with tumor microenvironment and extracellular matrix remodeling programs.
+
 # Some Important results
 Top protein matrix: (122, 200)
 Network Nodes: 14
